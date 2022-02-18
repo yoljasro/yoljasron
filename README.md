@@ -1,0 +1,2 @@
+# yoljasron
+Bu yoljasron repozitoriyasi
